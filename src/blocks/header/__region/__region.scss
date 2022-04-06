@@ -3,14 +3,6 @@
   margin-right: 2.5rem;
 }
 
-@media (min-width: 48em) {
-  .header__region {
-    &:hover {
-      background-color: #0074d4;
-    }
-  }
-}
-
 @media (max-width: 48em) {
   .header__region {
     display: none;
